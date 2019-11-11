@@ -1,4 +1,2 @@
-98764	Feynman, R	SFEN
-
-98762	Hawking, S	
-
+CWID|Instructor|Dept
+98765|Einstein, A|SFEN

@@ -1,3 +1,2 @@
-10103	Baldwin, C	SFEN
-10115	Wyatt, X	
-
+CWID;Name;Major
+10103;Baldwin, C;SFEN
